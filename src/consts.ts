@@ -75,7 +75,7 @@ export enum SecretAnnotationId {
 }
 
 export enum StartedByAnnotation {
-  user = 'pipeline.openshift.io/started-by',
+  user = 'pipeline.openshift.io/startehd-by',
 }
 
 export enum TektonResourceLabel {
